@@ -6,7 +6,7 @@
           <router-link to="/"
             ><img
               class="logo"
-              src="http://191.101.38.12/manow/projectA/assets/img/logo.png"
+              src="https://npgblog.dev/static/cf23526f451784ff137f161b8fe18d5a/vue-logo.png"
           /></router-link>
         </li>
         <li><router-link class="nav-list" to="/"> Home </router-link></li>
